@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Enemy(int,\ int)
+comment1.params=
+comment1.target=void\ changeDirection()
+comment2.params=
+comment2.target=void\ makeEnemy()
+comment3.params=
+comment3.target=void\ move()
+numComments=4

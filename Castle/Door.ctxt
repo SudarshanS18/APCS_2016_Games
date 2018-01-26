@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ m
+comment0.target=Door(int,\ int,\ java.awt.Image)
+comment1.params=
+comment1.target=void\ makeDoor()
+numComments=2

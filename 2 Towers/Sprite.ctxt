@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=myX\ myY
+comment0.target=Sprite(int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=myX
+comment3.target=void\ setX(int)
+comment4.params=myY
+comment4.target=void\ setY(int)
+numComments=5

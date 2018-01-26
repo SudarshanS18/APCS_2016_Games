@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Hero(int,\ int)
+comment1.params=
+comment1.target=void\ makeHero()
+comment2.params=
+comment2.target=boolean\ hasKey()
+comment3.params=c
+comment3.target=void\ gravityOn(Camera)
+comment4.params=c
+comment4.target=void\ gravityOff(Camera)
+numComments=5

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Line(int,\ int)
+comment1.params=
+comment1.target=int\ getHeight()
+comment10.params=w
+comment10.target=void\ setWidth(int)
+comment11.params=boo
+comment11.target=void\ setLineDone(boolean)
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=
+comment3.target=boolean\ getLineDone()
+comment4.params=
+comment4.target=void\ fall()
+comment5.params=e\ mode
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent,\ int)
+comment6.params=e\ mode
+comment6.target=void\ keyReleased(java.awt.event.KeyEvent,\ int)
+comment7.params=
+comment7.target=boolean\ lineDone()
+comment8.params=
+comment8.target=boolean\ lineFall()
+comment9.params=h
+comment9.target=void\ setHeight(int)
+numComments=12

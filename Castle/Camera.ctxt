@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Camera(int,\ int)
+comment1.params=
+comment1.target=int\ getDX()
+comment10.params=gr
+comment10.target=void\ gravity(boolean)
+comment2.params=
+comment2.target=int\ getDY()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=e
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment6.params=
+comment6.target=void\ jump()
+comment7.params=e
+comment7.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.params=b
+comment8.target=void\ xLeft(boolean)
+comment9.params=b
+comment9.target=void\ xRight(boolean)
+numComments=11

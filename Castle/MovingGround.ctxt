@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ name\ moveDist
+comment0.target=MovingGround(int,\ int,\ java.lang.String,\ int)
+comment1.params=c
+comment1.target=void\ moveGround(Camera)
+numComments=2

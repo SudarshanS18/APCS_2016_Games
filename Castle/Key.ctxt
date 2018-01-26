@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ m
+comment0.target=Key(int,\ int,\ java.awt.Image)
+comment1.params=
+comment1.target=void\ makeKey()
+numComments=2
